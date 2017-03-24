@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\demo\\Basketball\\app\\build\\intermediates\\res\\merged\\release\\raw\\gameback.mp3",
+        "source": "G:\\demo\\Basketball\\app\\src\\main\\res\\raw\\gameback.mp3"
+    },
+    {
+        "merged": "G:\\demo\\Basketball\\app\\build\\intermediates\\res\\merged\\release\\raw\\whistling.mp3",
+        "source": "G:\\demo\\Basketball\\app\\src\\main\\res\\raw\\whistling.mp3"
+    },
+    {
+        "merged": "G:\\demo\\Basketball\\app\\build\\intermediates\\res\\merged\\release\\raw\\over.mp3",
+        "source": "G:\\demo\\Basketball\\app\\src\\main\\res\\raw\\over.mp3"
+    },
+    {
+        "merged": "G:\\demo\\Basketball\\app\\build\\intermediates\\res\\merged\\release\\raw\\collision.mp3",
+        "source": "G:\\demo\\Basketball\\app\\src\\main\\res\\raw\\collision.mp3"
+    }
+]

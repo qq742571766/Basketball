@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\demo\Basketball\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4df2d4c72a90dd9be6dabc1fade9b7e1344165a4">
+        <dex dex="G:\demo\Basketball\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f38a0f37d6770a9e47909a7bca85b04537028325\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\demo\Basketball\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d1c71b5da160903da6e74888c23b9d4fa7f5294">
+        <dex dex="G:\demo\Basketball\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_619b73f1d169f0f886d01d27fb64b4a82da32331\classes.dex" />
+    </item>
+
+</items>

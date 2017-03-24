@@ -1,0 +1,7 @@
+#Fri Mar 24 13:10:15 CST 2017
+base.0=G\:\\demo\\Basketball\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_619b73f1d169f0f886d01d27fb64b4a82da32331
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\demo\\Basketball\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f38a0f37d6770a9e47909a7bca85b04537028325\\classes.dex
+base.1=G\:\\demo\\Basketball\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f38a0f37d6770a9e47909a7bca85b04537028325
+file.0=G\:\\demo\\Basketball\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_619b73f1d169f0f886d01d27fb64b4a82da32331\\classes.dex
